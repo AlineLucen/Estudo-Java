@@ -1,3 +1,5 @@
+package aulas;
+
 public class variaveis {
     // Execução do nosso programa JAVA
     public static void main(String[] args){
@@ -15,7 +17,7 @@ public class variaveis {
         String nome = "aline";// sempre aspas duplas
 
         int teste = 10;
-        teste = 9; // reatribuição de variaveis
+        teste = 9; // reatribuição de aulas.variaveis
 
         final int teste2 =200;// impossível mudar o valor
 
